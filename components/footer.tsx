@@ -7,8 +7,8 @@ export default function Footer() {
       { name: "Credit Repair", href: "/credit-repair" },
       { name: "Debt Settlement", href: "/debt-settlement" },
       { name: "Mortgage", href: "/mortgage" },
-      { name: "Credit Cards", href: "/cards" },
-      { name: "Personal Loans", href: "/loans" },
+      { name: "Credit Cards", href: "/credit-cards" },
+      { name: "Personal Loans", href: "/personal-loans" },
     ],
     Company: [
       { name: "About Us", href: "/about" },

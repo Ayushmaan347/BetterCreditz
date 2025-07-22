@@ -9,9 +9,9 @@ export default function Footer() {
       { name: "Credit Repair", href: "/services/credit-repair" },
       { name: "Debt Settlement", href: "/services/debt-settlement" },
       { name: "Mortgage Solutions", href: "/services/mortgage" },
-      { name: "Credit Cards", href: "/services/cards" },
-      { name: "Personal Loans", href: "/services/loans" },
-      { name: "Credit Monitoring", href: "/services/monitoring" },
+      { name: "Credit Cards", href: "/services/credit-cards" },
+      { name: "Personal Loans", href: "/services/personal-loans" },
+      { name: "Credit Monitoring", href: "/services/credit-monitoring" },
     ],
     Company: [
       { name: "About Us", href: "/about" },
